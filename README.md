@@ -1,4 +1,4 @@
-# 💳 Credit Card Default Prediction – Machine Learning Project
+# 💳 Credit Card Default Prediction – Machine Learning Assignment 2
 
 ---
 
@@ -26,10 +26,6 @@ The dataset used is the **Default of Credit Card Clients Dataset** from Kaggle.
 * **Domain:** Financial Risk Prediction
 
 The dataset includes demographic details, credit limits, repayment history, bill amounts, and payment information over the previous six months.
-
-✔ Minimum features ≥ 12
-✔ Minimum instances ≥ 500
-✔ Public Kaggle dataset
 
 ---
 
