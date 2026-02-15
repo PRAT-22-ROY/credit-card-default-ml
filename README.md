@@ -29,17 +29,6 @@ The dataset includes demographic details, credit limits, repayment history, bill
 
 ---
 
-## 🔹 Data Preprocessing
-
-The following preprocessing steps were performed:
-
-1. Feature and target separation
-2. Train–test split (80%–20%) using stratified sampling
-3. Feature scaling using StandardScaler
-4. Consistent preprocessing across all six models
-
----
-
 ## 🔹 Machine Learning Models Implemented
 
 The following models were implemented and evaluated on the same dataset:
